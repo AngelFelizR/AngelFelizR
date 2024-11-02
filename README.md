@@ -12,6 +12,13 @@ Proven experience integrating ad hoc regular expressions to transform, extract a
 
 Autodidactic, self-motivated, inquisitive, and eager to apply data science techniques to create business value and increase ROI for your company.
 
+## Open source contributions
+
+- [tidyvalidate](https://github.com/AngelFelizR/tidyvalidate/): simplifies the workflow of the validate package to work with data.frames by providing tools to manage the usage of ‘confront’, ‘validator’, ‘violating’, and ‘summary’ functions. 
+
+- [Joins in data.table Vignette](https://github.com/Rdatatable/data.table/blob/master/vignettes/datatable-joins.Rmd)
+
+
 ## Writing
 
 - [The Art of Readiable R code](https://angelfeliz.com/posts/01-readiable-code/main.html)
